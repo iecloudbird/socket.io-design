@@ -1,0 +1,23 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "my socket.io app design",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iecloudbird/socket.io-design.git"
+  },
+  "author": "Shean Hans Teoh <kuroxxxshiro9@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iecloudbird/socket.io-design/issues"
+  },
+  "homepage": "https://github.com/iecloudbird/socket.io-design#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
